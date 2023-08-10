@@ -6,7 +6,7 @@ const cheerio = require('cheerio');
 
 const ACM_SEARCH_URL = 'https://dl.acm.org/results.cfm';
 const ACM_REFERENCE_URL = 'https://dl.acm.org/exportformats.cfm';
-const SCHOLAR_SEARCH_URL = 'https://scholar.google.com/scholar';
+const SCHOLAR_SEARCH_URL = 'https://scholar.google.com/';
 const IEEE_SEARCH_URL = 'http://ieeexplore.ieee.org/rest/search';
 const IEEE_REFERENCE_URL = 'http://ieeexplore.ieee.org/xpl/downloadCitations';
 
