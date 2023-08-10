@@ -4,7 +4,7 @@
   "description": "Search for BibTeX references",
   "main": "index.js",
   "bin": "cli.js",
-  "repository": "https://github.com/ekmartin/bibtex-search",
+  "repository": "https://github.com/helen-ww/bibtex-search",
   "author": "Martin Ek <mail@ekmartin.com>",
   "keywords": [
     "bibtex",
